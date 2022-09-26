@@ -2,6 +2,8 @@
 
 ## Projekt Momentum
 
+![image](https://user-images.githubusercontent.com/74647806/192272188-46acd89d-cd50-47a4-adff-2edfc98a17ae.png)
+
 
 ## You can view the model on [Bldrs](https://bldrs.ai/share/v/gh/Swiss-Property-AG/Momentum-Public/main/Momentum.ifc#c:-26.89,9.36,21.12,-5.12,-0.29,1.95)
 
